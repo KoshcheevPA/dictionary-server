@@ -1,0 +1,22 @@
+{
+  "name": "dictionary-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoshcheevPA/dictionary-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoshcheevPA/dictionary-server/issues"
+  },
+  "homepage": "https://github.com/KoshcheevPA/dictionary-server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
